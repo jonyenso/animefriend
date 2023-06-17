@@ -1,8 +1,9 @@
 Site where you chat with anime characters AI:
 
 Steps needed:
-*Figure out how to make a web application using Java
-*???
+*HTML and CSS
+*Javascript/Jquery
+*Java
 
 IDEAS:
 *AI Voices for Various Anime Characters presenting different dialogue (fortune, games, interactions)

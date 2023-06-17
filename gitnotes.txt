@@ -1,0 +1,29 @@
+What is git? Why is it useful? 
+Git is a source code management tool, focused on collaboration. It allows us to share and edit code together in a central repository.
+
+○ What is github? Is it the same as git?
+No, github uses git. Github is a hosting service for git repositories. 
+
+○ What are some common git commands you’ve seen or used?
+Git clone, git add, git commit -m"(commit message goes here)", git push, git pull
+
+■ How to get a remote repo on your local machine
+git clone to get remote repository
+
+■ How to pull in updates from a remote repo
+git pull to get updates
+
+■ How to push updates to a remote repo (3 steps)
+git add - add changed files in a project to be saved
+git commit - save all added files
+git push - pull remote commits to your local repository
+
+○ What is a .gitignore
+A .gitignore specifies intentionally untracked files (ex:random metadata, log files) that should be ignored by your git repository.
+
+○ Local vs remote?
+The local repository is the directory of files on your own machine, while the remote repository is the directory of files on some central repository such as github.
+
+
+note:
+change name of quizlet for security purposes
